@@ -1,6 +1,9 @@
 gerber-playground
 =================
 
+### Specification
+- https://d1.amobbs.com/bbs_upload782111/files_9/ourdev_191993.pdf
+
 ### Parser
 - [hsiang-lee/gerber-parser: gerber-parser is a library for parsing and rendering gerber files. Rs274x is implemented by it. By default, it use Qt painting system to render. You can also write you own painting engine using other painting interface if you donot want to use Qt.](https://github.com/hsiang-lee/gerber-parser/tree/master)
 
